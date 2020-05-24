@@ -10,6 +10,7 @@ export const globalStyles = StyleSheet.create({
     marginVertical: 8,
     lineHeight: 20,
   },
+K:{},
   container: {
     flex: 1,
     padding: 20,
@@ -17,3 +18,4 @@ export const globalStyles = StyleSheet.create({
     justifyContent:"center"
   },
 });
+
